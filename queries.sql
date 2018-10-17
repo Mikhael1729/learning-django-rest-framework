@@ -1,0 +1,1 @@
+select * from courses_course
